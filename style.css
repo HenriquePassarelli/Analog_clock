@@ -60,17 +60,15 @@ body{
     width: 3rem;
     height:.2rem;
     background-color:aliceblue;
+    
 }
 .minutes{
     width: 5rem;
     height:.2rem;
     background-color:aliceblue;
-    transform: rotate(-90deg);
 }
 .seconds{
     width: 5rem;
     height:.2rem;
     background-color:rgb(102, 0, 0);
-    transform: rotate(-90deg);
-
 }
